@@ -1,0 +1,13 @@
+Robert Firmino,29,9,forward,90,40,75
+Raheem Sterling,25,7,forward,88,35,80
+Ederson Moraes,27,31,goalkeeper,45,85,45
+David De Gea,30,1,goalkeeper,40,90,40
+Jan Oblak,27,13,goalkeeper,40,90,40
+Christian Eriksen,28,24,midfielder,85,65,85
+Sergio Busquets,32,5,midfielder,75,75,90
+
+Robert Lewandowski,32,9,forward,92,35,70
+Kylian Mbappé,22,7,forward,90,25,85
+Raphael Varane,28,5,defender,65,85,70
+Toni Kroos,31,8,midfielder,80,65,90
+Frenkie de Jong,23,21,midfielder,75,70,90

@@ -1,0 +1,11 @@
+Sergio Aguero,32,10,forward,92,30,75
+Luis Suarez,34,9,forward,94,35,70
+Harry Kane,27,10,forward,92,35,75
+Saul Niguez,25,8,midfielder,80,70,85
+Bruno Fernandes,26,18,midfielder,80,65,85
+Dele Alli,24,20,midfielder,80,70,80
+Diego Godin,34,2,defender,50,90,70
+Jordi Alba,31,18,defender,60,85,75
+Kostas Manolas,28,44,defender,65,85,70
+Trent Alexander-Arnold,22,66,defender,65,85,70
+Marc-Andre ter Stegen,28,1,goalkeeper,45,85,45
