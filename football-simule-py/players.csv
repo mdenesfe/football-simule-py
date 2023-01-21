@@ -1,0 +1,24 @@
+name,age,number,position,attack,defense,midfield,team
+Cristiano Ronaldo,36,7,forward,90,50,70,team1
+Lionel Messi,33,10,forward,95,40,75,team1
+Neymar Jr,28,7,forward,85,50,70,team1
+Kylian Mbappe,22,10,forward,80,45,75,team1
+Jan Vertonghen,33,5,defender,75,70,55,team1
+Sergio Ramos,35,4,defender,70,80,50,team1
+Luka Modric,35,10,midfielder,75,65,75,team1
+Toni Kroos,31,8,midfielder,80,60,80,team1
+Sergio Busquets,33,5,defender,70,80,50,team1
+Gerard Pique,33,3,defender,60,70,60,team1
+David de Gea,29,1,goalkeeper,50,80,50,team1
+
+Robert Lewandowski,32,9,forward,90,50,70,team2
+Erling Braut Haaland,20,9,forward,85,50,70,team2
+Kai Havertz,21,10,forward,80,45,75,team2
+Dayot Upamecano,22,5,defender,75,70,55,team2
+Alphonso Davies,19,2,defender,70,80,50,team2
+Joshua Kimmich,25,6,midfielder,75,65,75,team2
+Leon Goretzka,26,8,midfielder,80,60,80,team2
+Corentin Tolisso,25,5,defender,70,80,50,team2
+Niklas Sule,25,4,defender,60,70,60,team2
+Lucas Hernandez,26,3,defender,60,70,60,team2
+Manuel Neuer,34,1,goalkeeper,50,80,50,team2
