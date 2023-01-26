@@ -1,13 +1,11 @@
 import random
-import time
 
 def get_form_factor():
     return random.uniform(0, 1)
 
-
 def get_age_factor(age):
     age = int(age)
-    age_factors = [1, 0.9, 0.8, 0.7]
+    age_factors = [1, 1.2, 0.8, 0.7]
     if age < 25:
         return age_factors[0]
     elif age < 30:

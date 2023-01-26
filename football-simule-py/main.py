@@ -1,6 +1,7 @@
 from data import read_players_data, get_team_players, calculate_team_ratings
 import random
 import time
+from simulate import *
 
 team1_name = input("Takımınızın adını girin: ")
 team2_name = input("Takımınızın adını girin: ")
@@ -32,7 +33,7 @@ team2_score = random.gauss(team2_score, 10)
 print("-----------------------------------")
 print("-----------Maç başlıyor-----------")
 print("-----------------------------------")
-time.sleep(0.9)
+time.sleep(0.5)
 
 for player in team1_players:
     player["fatigue"] = 0
@@ -55,7 +56,7 @@ while random.randint(-100,100) < team1_goal_chance - team2_goal_chance:
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team1_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
-    time.sleep(0.9)
+    time.sleep(0.5)
     for player in team1_players:
         if player != scorer:
             player["fatigue"] += 10
@@ -72,7 +73,7 @@ while random.randint(-100,100) < team2_goal_chance - team1_goal_chance:
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team2_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
-    time.sleep(0.9)
+    time.sleep(0.5)
     for player in team2_players:
         if player != scorer:
             player["fatigue"] += 10
@@ -83,7 +84,7 @@ while random.randint(-100,100) < team2_goal_chance - team1_goal_chance:
 print("İlk yarı bitti, skor {} - {}".format(team1_goals, team2_goals))
 print("-----------------------------------")
 
-time.sleep(0.9)
+time.sleep(0.5)
 
 team1_goal_chance = (team1_attack + team1_midfield) / (team2_midfield + team2_defense)
 team2_goal_chance = (team2_attack + team2_midfield) / (team1_defense + team1_midfield)
@@ -98,7 +99,7 @@ while random.randint(-100,100) < team1_goal_chance - team2_goal_chance:
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team1_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
-    time.sleep(0.9)
+    time.sleep(0.5)
     for player in team1_players:
         if player != scorer:
             player["fatigue"] += 10
@@ -115,7 +116,7 @@ while random.randint(-100,100) < team2_goal_chance - team1_goal_chance:
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team2_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
-    time.sleep(0.9)
+    time.sleep(0.5)
     for player in team2_players:
         if player != scorer:
             player["fatigue"] += 10
