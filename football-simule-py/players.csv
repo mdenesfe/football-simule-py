@@ -11,7 +11,6 @@ Sergio Busquets,33,5,defender,70,80,50,team1
 Gerard Pique,33,3,defender,60,70,60,team1
 David de Gea,29,1,goalkeeper,50,80,50,team1
 
-Robert Lewandowski,32,9,forward,90,50,70,team2
 Erling Braut Haaland,20,9,forward,85,50,70,team2
 Kai Havertz,21,10,forward,80,45,75,team2
 Dayot Upamecano,22,5,defender,75,70,55,team2
@@ -23,91 +22,91 @@ Niklas Sule,25,4,defender,60,70,60,team2
 Lucas Hernandez,26,3,defender,60,70,60,team2
 Manuel Neuer,34,1,goalkeeper,50,80,50,team2
 
-Cyle Larin,25,9,forward,80,50,70,Besiktas
-Adem Ljajic,30,10,forward,75,40,70,Besiktas
-Ricardo Quaresma,37,7,forward,70,35,65,Besiktas
-Gary Medel,32,5,defender,75,70,55,Besiktas
-Domagoj Vida,31,3,defender,70,80,50,Besiktas
+Vincent Aboubakar,25,9,forward,85,40,60,Besiktas
+Cenk Tosun,30,10,forward,75,40,70,Besiktas
+Rachid Ghezzal,37,7,forward,70,35,65,Besiktas
 Atiba Hutchinson,38,6,midfielder,75,65,75,Besiktas
-Jose Sosa,35,8,midfielder,80,60,80,Besiktas
-Caner Erkin,31,3,defender,70,80,50,Besiktas
-Roman Sais,31,2,defender,80,80,55,Besiktas
 Rachid Ghezzal,28,10,midfielder,70,60,75,Besiktas
+Gedson Fernandes,35,8,midfielder,80,60,80,Besiktas
+Arthur Masuaku,31,3,defender,70,80,50,Besiktas
+Roman Sais,31,2,defender,80,80,55,Besiktas
+Tayyip Talha,32,5,defender,75,70,55,Besiktas
+Valentin Rosier,31,3,defender,70,80,50,Besiktas
 Mert Günok,33,1,goalkeeper,60,70,60,Besiktas
 
-Mbaye Diagne,28,9,forward,80,50,70,Fenerbahce
-Dario Melnjak,24,10,forward,75,40,70,Fenerbahce
+Michy Batshuayi,28,9,forward,80,50,70,Fenerbahce
+Diego Rossi,24,10,forward,75,40,70,Fenerbahce
 Enner Valencia,31,7,forward,70,35,65,Fenerbahce
-Sadık Çiftpınar,30,5,defender,75,70,55,Fenerbahce
-Serhat Güler,28,3,defender,70,80,50,Fenerbahce
-Ozan Tufan,25,6,midfielder,75,65,75,Fenerbahce
-Efecan Karaca,24,8,midfielder,80,60,80,Fenerbahce
-Caner Erkin,31,3,defender,70,80,50,Fenerbahce
-Dimitrios Pelkas,26,10,midfielder,70,60,75,Fenerbahce
+İrfancan Kahveci,25,6,midfielder,75,65,75,Fenerbahce
+Willian Arao,26,10,midfielder,70,60,75,Fenerbahce
 Arda Güler,17,10,midfielder,70,60,75,Fenerbahce
+Ferdi Kadıoğlu,24,8,defender,80,60,80,Fenerbahce
+Atilla Szalai,31,3,defender,70,80,50,Fenerbahce
+Luis Henriqe,30,5,defender,75,70,55,Fenerbahce
+Osayi Samuel,28,3,defender,70,80,50,Fenerbahce
 Altay Bayındır,24,1,goalkeeper,60,70,60,Fenerbahce
 
-Radamel Falcao,34,9,forward,80,50,70,Galatasaray
-Ryan Babel,34,10,forward,75,40,70,Galatasaray
-Feghouli,31,7,forward,70,35,65,Galatasaray
-Mariano,30,5,defender,75,70,55,Galatasaray
-Luyindama,28,3,defender,70,80,50,Galatasaray
-Eren Derdiyok,32,6,midfielder,75,65,75,Galatasaray
-Selçuk İnan,35,8,midfielder,80,60,80,Galatasaray
-Yuto Nagatomo,33,3,defender,70,80,50,Galatasaray
-Emre Kılınç,26,10,midfielder,70,60,75,Galatasaray
+Mauro Icardi,27,9,forward,80,45,75,Galatasaray
+Kerem Aktürkoğlu,34,10,forward,75,40,70,Galatasaray
+Milot Rashica,31,7,forward,70,35,65,Galatasaray
+Sergio Oliviera,32,6,midfielder,75,65,75,Galatasaray
+Dries Mertens,35,8,midfielder,80,60,80,Galatasaray
 Toreira,26,10,midfielder,70,60,75,Galatasaray
+Sacha Boey,26,10,defender,70,60,75,Galatasaray
+Victor Nellson,30,5,defender,75,70,55,Galatasaray
+Patrick Van Anholt,33,3,defender,70,80,50,Galatasaray
+Abdulkerim Bardakçı,28,3,defender,70,80,50,Galatasaray
 Fernando Muslera,34,1,goalkeeper,60,70,60,Galatasaray
 
-Bruno Fernandes,27,8,midfielder,85,60,80,Manchester United
-Harry Maguire,27,5,defender,80,70,65,Manchester United
-Marcus Rashford,22,10,forward,80,50,70,Manchester United
-Anthony Martial,24,9,forward,75,40,70,Manchester United
 Wout Weghorst,31,9,forward,75,40,70,Manchester United
-David de Gea,30,1,goalkeeper,70,80,50,Manchester United
-Paul Pogba,27,6,midfielder,75,65,75,Manchester United
-Luke Shaw,25,3,defender,70,80,50,Manchester United
-Scott McTominay,24,39,midfielder,70,60,75,Manchester United
-Victor Lindelöf,26,2,defender,70,60,60,Manchester United
-Nemanja Matic,31,31,midfielder,65,70,65,Manchester United
+Marcus Rashford,22,10,forward,80,50,70,Manchester United
+Antony,24,9,forward,86,40,80,Manchester United
+Casemiro,31,31,midfielder,74,88,88,Manchester United
+Bruno Fernandes,27,8,midfielder,83,70,90,Manchester United
+Cristian Eriksen,27,6,midfielder,75,65,80,Manchester United
+Malacia,25,3,defender,74,78,70,Manchester United
+Lisandro Martinez,24,39,defender,54,80,60,Manchester United
+Rafael Varane,26,2,defender,45,77,60,Manchester United
+Diego Dalot,27,5,defender,72,70,60,Manchester United
+David de Gea,30,1,goalkeeper,20,84,20,Manchester United
 
 Karim Benzema,32,9,forward,90,50,70,Real Madrid
-Vinicius Junior,20,28,forward,85,50,70,Real Madrid
-Eden Hazard,29,7,forward,80,45,75,Real Madrid
-Sergio Ramos,35,4,defender,75,70,55,Real Madrid
-Raphael Varane,27,5,defender,70,80,50,Real Madrid
-Luka Modric,35,10,midfielder,75,65,75,Real Madrid
-Toni Kroos,31,8,midfielder,80,60,80,Real Madrid
-Federico Valverde,22,22,midfielder,70,60,75,Real Madrid
-Sergio Reguilon,23,3,defender,60,70,60,Real Madrid
-Rudiger,27,3,defender,60,80,60,Real Madrid
-Thibaut Courtois,28,1,goalkeeper,50,80,50,Real Madrid
+Vinicius Junior,20,28,forward,87,50,70,Real Madrid
+Rodrygo,29,7,forward,85,45,70,Real Madrid
+Luka Modric,35,10,midfielder,80,80,90,Real Madrid
+Toni Kroos,31,8,midfielder,80,80,80,Real Madrid
+Federico Valverde,22,22,midfielder,85,85,85,Real Madrid
+Dani Carvajal,23,3,defender,75,85,60,Real Madrid
+Ferland Mendy,27,5,defender,75,81,50,Real Madrid
+Eder Militao,25,5,defender,45,88,55,Real Madrid
+Rudiger,27,3,defender,50,87,60,Real Madrid
+Thibaut Courtois,28,1,goalkeeper,20,95,20,Real Madrid
 
-Kylian Mbappe,22,7,forward,90,50,70,Paris
-Neymar Jr,28,10,forward,90,50,70,Paris
-Mauro Icardi,27,9,forward,80,45,75,Paris
-Presnel Kimpembe,25,5,defender,75,70,55,Paris
-Marquinhos,27,5,defender,70,80,50,Paris
-Soler,27,5,defender,70,80,50,Paris
-Leandro Paredes,27,8,midfielder,75,65,75,Paris
-Ander Herrera,31,6,midfielder,80,60,80,Paris
-Marco Verratti,28,6,midfielder,70,60,75,Paris
-Juan Bernat,28,3,defender,60,70,60,Paris
-Keylor Navas,33,1,goalkeeper,50,80,50,Paris
+Lionel Messi,33,10,forward,100,40,90,Paris
+Kylian Mbappe,22,7,forward,95,40,70,Paris
+Neymar Jr,28,10,forward,92,50,80,Paris
+Wjinaldum,27,8,midfielder,70,85,70,Paris
+Soler,31,6,midfielder,80,45,60,Paris
+Marco Verratti,28,6,midfielder,75,65,85,Paris
+Achraf Hakimi,28,3,defender,70,70,70,Paris
+Sergio Ramos,35,4,defender,50,95,55,Paris
+Marquinhos,27,5,defender,45,88,50,Paris
+Nuno Mendes,27,5,defender,75,77,50,Paris
+Donnaruma,23,1,goalkeeper,20,90,20,Paris
 
-Lionel Messi,33,10,forward,95,40,75,Barcelona
-Antoine Griezmann,28,7,forward,90,50,70,Barcelona
-Ousmane Dembele,23,11,forward,80,45,75,Barcelona
-Gerard Pique,33,3,defender,75,70,55,Barcelona
-Marcos Alonso,33,3,defender,75,70,55,Barcelona
-Clement Lenglet,25,15,defender,70,80,50,Barcelona
-Sergio Busquets,33,5,midfielder,75,65,75,Barcelona
-Frenkie de Jong,24,21,midfielder,80,60,80,Barcelona
-Pedri,17,16,midfielder,70,60,75,Barcelona
-Jordi Alba,30,18,defender,60,70,60,Barcelona
-Marc-Andre ter Stegen,28,1,goalkeeper,50,80,50,Barcelona
+Robert Lewandowski,32,9,forward,95,40,60,Barcelona
+Antoine Griezmann,28,7,forward,82,45,75,Barcelona
+Ousmane Dembele,23,11,forward,81,40,70,Barcelona
+Gavi,23,5,midfielder,75,65,80,Barcelona
+Frenkie de Jong,24,21,midfielder,50,80,80,Barcelona
+Pedri,17,16,midfielder,80,60,80,Barcelona
+Clement Lenglet,25,15,defender,40,80,50,Barcelona
+Jordi Alba,30,18,defender,67,75,60,Barcelona
+Jules Kounde,23,3,defender,45,78,56,Barcelona
+Marcos Alonso,33,3,defender,65,70,55,Barcelona
+Marc-Andre ter Stegen,28,1,goalkeeper,20,85,20,Barcelona
 
-Cristiano Ronaldo,36,7,forward,90,50,70,Juventus
+Cristiano Ronaldo,36,7,forward,100,50,70,Juventus
 Paulo Dybala,26,10,forward,85,50,70,Juventus
 Alvaro Morata,27,9,forward,80,45,75,Juventus
 Federico Chiesa,23,11,forward,80,45,75,Juventus

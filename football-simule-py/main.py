@@ -39,18 +39,19 @@ for player in team1_players:
 for player in team2_players:
     player["fatigue"] = 0
 
-team1_goal_chance = team1_attack / (team1_attack + team2_defense)
-team2_goal_chance = team2_attack / (team1_defense + team2_attack)
+team1_goal_chance = (team1_attack + team1_midfield) / (team2_midfield + team2_defense)
+team2_goal_chance = (team2_attack + team2_midfield) / (team1_defense + team1_midfield)
 
 team1_goals = 0
 team2_goals = 0
 
-while random.random() < team1_goal_chance:
+while random.randint(-100,100) < team1_goal_chance - team2_goal_chance:
     team1_goals += 1
     scorer = None
     for player in team1_players:
-        if player["attack"] * (1 - (player["fatigue"]/100)) == max(player["attack"]* (1 - (player["fatigue"]/100)) for player in team1_players):
-            scorer = player
+        scorer = random.choice(team1_players)
+        while scorer["position"] == "goalkeeper":
+            scorer = random.choice(team1_players)
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team1_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
@@ -61,12 +62,13 @@ while random.random() < team1_goal_chance:
     for player in team2_players:
         player["fatigue"] += 5
 
-while random.random() < team2_goal_chance:
+while random.randint(-100,100) < team2_goal_chance - team1_goal_chance:
     team2_goals += 1
     scorer = None
     for player in team2_players:
-        if player["attack"] * (1 - (player["fatigue"]/100)) == max(player["attack"]* (1 - (player["fatigue"]/100)) for player in team2_players):
-            scorer = player
+        scorer = random.choice(team2_players)
+        while scorer["position"] == "goalkeeper":
+            scorer = random.choice(team2_players)
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team2_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
@@ -83,15 +85,16 @@ print("-----------------------------------")
 
 time.sleep(0.9)
 
-team1_goal_chance = team1_attack / (team1_attack + team2_defense)
-team2_goal_chance = team2_attack / (team1_defense + team2_attack)
+team1_goal_chance = (team1_attack + team1_midfield) / (team2_midfield + team2_defense)
+team2_goal_chance = (team2_attack + team2_midfield) / (team1_defense + team1_midfield)
 
-while random.random() < team1_goal_chance:
+while random.randint(-100,100) < team1_goal_chance - team2_goal_chance:
     team1_goals += 1
     scorer = None
     for player in team1_players:
-        if player["attack"] * (1 - (player["fatigue"]/100)) == max(player["attack"]* (1 - (player["fatigue"]/100)) for player in team1_players):
-            scorer = player
+        scorer = random.choice(team1_players)
+        while scorer["position"] == "goalkeeper":
+            scorer = random.choice(team1_players)
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team1_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
@@ -102,12 +105,13 @@ while random.random() < team1_goal_chance:
     for player in team2_players:
         player["fatigue"] += 5
 
-while random.random() < team2_goal_chance:
+while random.randint(-100,100) < team2_goal_chance - team1_goal_chance:
     team2_goals += 1
     scorer = None
     for player in team2_players:
-        if player["attack"] * (1 - (player["fatigue"]/100)) == max(player["attack"]* (1 - (player["fatigue"]/100)) for player in team2_players):
-            scorer = player
+        scorer = random.choice(team2_players)
+        while scorer["position"] == "goalkeeper":
+            scorer = random.choice(team2_players)
             break
     print("GOOOOOLLLL!!! {} {} ({}) ile golü buldu!".format(team2_name, scorer["name"], scorer["number"]))
     print("-----------------------------------")
@@ -117,6 +121,7 @@ while random.random() < team2_goal_chance:
             player["fatigue"] += 10
     for player in team1_players:
         player["fatigue"] += 5
+        
 print("İkinci yarı bitti, skor {} - {}".format(team1_goals, team2_goals))
 print("-----------------------------------")
 
